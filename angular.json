@@ -24,6 +24,8 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/ngx-toastr/toastr.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +121,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tutorialstripeFRONT"
+    }
+  },
+  "defaultProject": "tutorialstripeFRONT",
+  "cli": {
+    "analytics": "d1e520f8-18cd-4e3f-8940-3258ebb10d23"
+  }
 }
